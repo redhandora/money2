@@ -1,0 +1,206 @@
+{
+  "kind": "youtube#videoListResponse",
+  "etag": "etag-jp-static",
+  "items": [
+    {
+      "id": "jp_video_001",
+      "snippet": {
+        "title": "JP Trending Short 1",
+        "description": "Deterministic JP fixture video"
+      },
+      "contentDetails": {
+        "duration": "PT42S"
+      }
+    },
+    {
+      "id": "jp_video_002",
+      "snippet": {
+        "title": "JP Trending Short 2",
+        "description": "Second deterministic JP fixture video"
+      },
+      "contentDetails": {
+        "duration": "PT58S"
+      }
+    },
+    {
+      "id": "jp_video_003",
+      "snippet": {
+        "title": "JP Trending Short 3",
+        "description": "Deterministic JP fixture video 3"
+      },
+      "contentDetails": {
+        "duration": "PT35S"
+      }
+    },
+    {
+      "id": "jp_video_004",
+      "snippet": {
+        "title": "JP Trending Short 4",
+        "description": "Deterministic JP fixture video 4"
+      },
+      "contentDetails": {
+        "duration": "PT47S"
+      }
+    },
+    {
+      "id": "jp_video_005",
+      "snippet": {
+        "title": "JP Trending Short 5",
+        "description": "Deterministic JP fixture video 5"
+      },
+      "contentDetails": {
+        "duration": "PT52S"
+      }
+    },
+    {
+      "id": "jp_video_006",
+      "snippet": {
+        "title": "JP Trending Short 6",
+        "description": "Deterministic JP fixture video 6"
+      },
+      "contentDetails": {
+        "duration": "PT40S"
+      }
+    },
+    {
+      "id": "jp_video_007",
+      "snippet": {
+        "title": "JP Trending Short 7",
+        "description": "Deterministic JP fixture video 7"
+      },
+      "contentDetails": {
+        "duration": "PT54S"
+      }
+    },
+    {
+      "id": "jp_video_008",
+      "snippet": {
+        "title": "JP Trending Short 8",
+        "description": "Deterministic JP fixture video 8"
+      },
+      "contentDetails": {
+        "duration": "PT39S"
+      }
+    },
+    {
+      "id": "jp_video_009",
+      "snippet": {
+        "title": "JP Trending Short 9",
+        "description": "Deterministic JP fixture video 9"
+      },
+      "contentDetails": {
+        "duration": "PT45S"
+      }
+    },
+    {
+      "id": "jp_video_010",
+      "snippet": {
+        "title": "JP Trending Short 10",
+        "description": "Deterministic JP fixture video 10"
+      },
+      "contentDetails": {
+        "duration": "PT50S"
+      }
+    },
+    {
+      "id": "jp_video_011",
+      "snippet": {
+        "title": "JP Trending Short 11",
+        "description": "Deterministic JP fixture video 11"
+      },
+      "contentDetails": {
+        "duration": "PT31S"
+      }
+    },
+    {
+      "id": "jp_video_012",
+      "snippet": {
+        "title": "JP Trending Short 12",
+        "description": "Deterministic JP fixture video 12"
+      },
+      "contentDetails": {
+        "duration": "PT56S"
+      }
+    },
+    {
+      "id": "jp_video_013",
+      "snippet": {
+        "title": "JP Trending Short 13",
+        "description": "Deterministic JP fixture video 13"
+      },
+      "contentDetails": {
+        "duration": "PT34S"
+      }
+    },
+    {
+      "id": "jp_video_014",
+      "snippet": {
+        "title": "JP Trending Short 14",
+        "description": "Deterministic JP fixture video 14"
+      },
+      "contentDetails": {
+        "duration": "PT57S"
+      }
+    },
+    {
+      "id": "jp_video_015",
+      "snippet": {
+        "title": "JP Trending Short 15",
+        "description": "Deterministic JP fixture video 15"
+      },
+      "contentDetails": {
+        "duration": "PT43S"
+      }
+    },
+    {
+      "id": "jp_video_016",
+      "snippet": {
+        "title": "JP Trending Short 16",
+        "description": "Deterministic JP fixture video 16"
+      },
+      "contentDetails": {
+        "duration": "PT48S"
+      }
+    },
+    {
+      "id": "jp_video_017",
+      "snippet": {
+        "title": "JP Trending Short 17",
+        "description": "Deterministic JP fixture video 17"
+      },
+      "contentDetails": {
+        "duration": "PT36S"
+      }
+    },
+    {
+      "id": "jp_video_018",
+      "snippet": {
+        "title": "JP Trending Short 18",
+        "description": "Deterministic JP fixture video 18"
+      },
+      "contentDetails": {
+        "duration": "PT53S"
+      }
+    },
+    {
+      "id": "jp_video_019",
+      "snippet": {
+        "title": "JP Trending Short 19",
+        "description": "Deterministic JP fixture video 19"
+      },
+      "contentDetails": {
+        "duration": "PT37S"
+      }
+    },
+    {
+      "id": "jp_video_020",
+      "snippet": {
+        "title": "JP Trending Short 20",
+        "description": "Deterministic JP fixture video 20"
+      },
+      "contentDetails": {
+        "duration": "PT60S"
+      }
+    }
+  ]
+}

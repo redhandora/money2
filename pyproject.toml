@@ -1,0 +1,24 @@
+[build-system]
+requires = ["setuptools>=68", "wheel"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "phase1-youtube-trending-shorts"
+version = "0.1.0"
+description = "Phase 1 YouTube JP/US trending Shorts acquisition"
+requires-python = ">=3.6"
+dependencies = [
+  "google-api-python-client>=2.0.0",
+]
+
+[project.optional-dependencies]
+dev = [
+  "pytest>=6.2.5",
+]
+asr = [
+  "openai-whisper",
+]
+
+[tool.pytest.ini_options]
+minversion = "6.2"
+testpaths = ["tests"]

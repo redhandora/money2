@@ -1,0 +1,11 @@
+{
+  "schema_version": "1.0",
+  "region": "JP",
+  "rank": 3,
+  "video_id": "jp_video_bad",
+  "title": "Malformed transcript fixture",
+  "description": "This fixture intentionally violates transcript status enum",
+  "transcript_status": "broken_state",
+  "transcript_provenance": "none",
+  "transcript_text": ""
+}

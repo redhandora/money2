@@ -1,0 +1,11 @@
+{
+  "schema_version": "1.0",
+  "region": "JP",
+  "rank": 2,
+  "video_id": "jp_video_002",
+  "title": "JP Trending Short 2",
+  "description": "Second deterministic JP fixture video",
+  "transcript_status": "asr_ok",
+  "transcript_provenance": "asr",
+  "transcript_text": "ASR transcript text for jp_video_002"
+}

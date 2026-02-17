@@ -1,0 +1,11 @@
+{
+  "schema_version": "1.0",
+  "region": "US",
+  "rank": 1,
+  "video_id": "us_video_001",
+  "title": "US Trending Short 1",
+  "description": "Deterministic US fixture video",
+  "transcript_status": "official_unavailable",
+  "transcript_provenance": "none",
+  "transcript_text": ""
+}

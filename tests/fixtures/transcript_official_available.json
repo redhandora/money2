@@ -1,0 +1,11 @@
+{
+  "schema_version": "1.0",
+  "region": "JP",
+  "rank": 1,
+  "video_id": "jp_video_001",
+  "title": "JP Trending Short 1",
+  "description": "Deterministic JP fixture video",
+  "transcript_status": "official_ok",
+  "transcript_provenance": "official",
+  "transcript_text": "Official caption text for jp_video_001"
+}

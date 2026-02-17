@@ -1,0 +1,11 @@
+{
+  "schema_version": "1.0",
+  "region": "US",
+  "rank": 2,
+  "video_id": "us_video_002",
+  "title": "US Trending Short 2",
+  "description": "Second deterministic US fixture video",
+  "transcript_status": "asr_failed",
+  "transcript_provenance": "asr",
+  "transcript_text": ""
+}

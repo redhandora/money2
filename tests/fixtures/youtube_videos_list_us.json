@@ -1,0 +1,206 @@
+{
+  "kind": "youtube#videoListResponse",
+  "etag": "etag-us-static",
+  "items": [
+    {
+      "id": "us_video_001",
+      "snippet": {
+        "title": "US Trending Short 1",
+        "description": "Deterministic US fixture video"
+      },
+      "contentDetails": {
+        "duration": "PT35S"
+      }
+    },
+    {
+      "id": "us_video_002",
+      "snippet": {
+        "title": "US Trending Short 2",
+        "description": "Second deterministic US fixture video"
+      },
+      "contentDetails": {
+        "duration": "PT60S"
+      }
+    },
+    {
+      "id": "us_video_003",
+      "snippet": {
+        "title": "US Trending Short 3",
+        "description": "Deterministic US fixture video 3"
+      },
+      "contentDetails": {
+        "duration": "PT41S"
+      }
+    },
+    {
+      "id": "us_video_004",
+      "snippet": {
+        "title": "US Trending Short 4",
+        "description": "Deterministic US fixture video 4"
+      },
+      "contentDetails": {
+        "duration": "PT44S"
+      }
+    },
+    {
+      "id": "us_video_005",
+      "snippet": {
+        "title": "US Trending Short 5",
+        "description": "Deterministic US fixture video 5"
+      },
+      "contentDetails": {
+        "duration": "PT55S"
+      }
+    },
+    {
+      "id": "us_video_006",
+      "snippet": {
+        "title": "US Trending Short 6",
+        "description": "Deterministic US fixture video 6"
+      },
+      "contentDetails": {
+        "duration": "PT38S"
+      }
+    },
+    {
+      "id": "us_video_007",
+      "snippet": {
+        "title": "US Trending Short 7",
+        "description": "Deterministic US fixture video 7"
+      },
+      "contentDetails": {
+        "duration": "PT49S"
+      }
+    },
+    {
+      "id": "us_video_008",
+      "snippet": {
+        "title": "US Trending Short 8",
+        "description": "Deterministic US fixture video 8"
+      },
+      "contentDetails": {
+        "duration": "PT32S"
+      }
+    },
+    {
+      "id": "us_video_009",
+      "snippet": {
+        "title": "US Trending Short 9",
+        "description": "Deterministic US fixture video 9"
+      },
+      "contentDetails": {
+        "duration": "PT46S"
+      }
+    },
+    {
+      "id": "us_video_010",
+      "snippet": {
+        "title": "US Trending Short 10",
+        "description": "Deterministic US fixture video 10"
+      },
+      "contentDetails": {
+        "duration": "PT51S"
+      }
+    },
+    {
+      "id": "us_video_011",
+      "snippet": {
+        "title": "US Trending Short 11",
+        "description": "Deterministic US fixture video 11"
+      },
+      "contentDetails": {
+        "duration": "PT30S"
+      }
+    },
+    {
+      "id": "us_video_012",
+      "snippet": {
+        "title": "US Trending Short 12",
+        "description": "Deterministic US fixture video 12"
+      },
+      "contentDetails": {
+        "duration": "PT56S"
+      }
+    },
+    {
+      "id": "us_video_013",
+      "snippet": {
+        "title": "US Trending Short 13",
+        "description": "Deterministic US fixture video 13"
+      },
+      "contentDetails": {
+        "duration": "PT33S"
+      }
+    },
+    {
+      "id": "us_video_014",
+      "snippet": {
+        "title": "US Trending Short 14",
+        "description": "Deterministic US fixture video 14"
+      },
+      "contentDetails": {
+        "duration": "PT57S"
+      }
+    },
+    {
+      "id": "us_video_015",
+      "snippet": {
+        "title": "US Trending Short 15",
+        "description": "Deterministic US fixture video 15"
+      },
+      "contentDetails": {
+        "duration": "PT42S"
+      }
+    },
+    {
+      "id": "us_video_016",
+      "snippet": {
+        "title": "US Trending Short 16",
+        "description": "Deterministic US fixture video 16"
+      },
+      "contentDetails": {
+        "duration": "PT47S"
+      }
+    },
+    {
+      "id": "us_video_017",
+      "snippet": {
+        "title": "US Trending Short 17",
+        "description": "Deterministic US fixture video 17"
+      },
+      "contentDetails": {
+        "duration": "PT34S"
+      }
+    },
+    {
+      "id": "us_video_018",
+      "snippet": {
+        "title": "US Trending Short 18",
+        "description": "Deterministic US fixture video 18"
+      },
+      "contentDetails": {
+        "duration": "PT54S"
+      }
+    },
+    {
+      "id": "us_video_019",
+      "snippet": {
+        "title": "US Trending Short 19",
+        "description": "Deterministic US fixture video 19"
+      },
+      "contentDetails": {
+        "duration": "PT37S"
+      }
+    },
+    {
+      "id": "us_video_020",
+      "snippet": {
+        "title": "US Trending Short 20",
+        "description": "Deterministic US fixture video 20"
+      },
+      "contentDetails": {
+        "duration": "PT59S"
+      }
+    }
+  ]
+}
