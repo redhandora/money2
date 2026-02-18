@@ -1,8 +1,8 @@
 import re
 
 
-SHORTS_RULE_VERSION = "v1_duration_lte_60_seconds"
-SHORTS_MAX_SECONDS = 60
+SHORTS_RULE_VERSION = "v2_duration_lte_180_seconds"
+SHORTS_MAX_SECONDS = 180
 
 _ISO8601_DURATION_PATTERN = re.compile(
     r"^P"

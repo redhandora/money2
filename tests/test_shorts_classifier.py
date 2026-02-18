@@ -8,7 +8,8 @@ from phase1_youtube.shorts_classifier import SHORTS_RULE_VERSION, classify_short
     [
         ("PT59S", True),
         ("PT60S", True),
-        ("PT61S", False),
+        ("PT180S", True),
+        ("PT181S", False),
     ],
 )
 def test_classify_shorts_duration_boundary_seconds(duration, expected_is_short):
